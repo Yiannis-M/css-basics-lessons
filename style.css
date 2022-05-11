@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+}
+
+div p {
+  padding: 5px 1px 5px 10px;
+}
+
+div span {
+  display: block;
+}
+
+.test-class {
+  background-color: brown;
+  color: #fff;
+  text-align: center;
+  font-size: 2rem;
+  font-family: "Times New Roman", Times, serif;
+  word-spacing: 5px;
+  font-style: italic;
+  font-weight: 600;
+}
